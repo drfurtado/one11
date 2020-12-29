@@ -3,10 +3,14 @@ title: "ONE11"
 description: |
   ONE11
 output_dir: "docs"
+creative_commons: CC BY
 navbar:
   right:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
-output: distill::distill_article
+output:
+  distill::distill_article:
+    toc: true
+    theme: main-theme.css

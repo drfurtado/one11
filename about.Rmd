@@ -13,7 +13,13 @@ links:
 output:
   postcards::jolla
 ---
- 
-I am an associate professor at [Cal State Northridge](https://csun.edu) where I teach courses related to Kinesiology. I earned my M.S. and Ph.D. degrees in Motor Behavior from the University of Pittsburgh, PA. Dr. My line of research focuses on two main areas: (1) validation of observational models in psychomotor assessment instruments and (2) the relationship between motor skill competence, perceived motor competence, physical activity levels, and body composition.
+
+Welcome to my academic blog. I am an associate professor at [Cal State Northridge](https://csun.edu) where I teach courses related to Kinesiology. I earned my M.S. and Ph.D. degrees in Motor Behavior from the University of Pittsburgh, PA. Dr. My line of research focuses on two main areas: (1) validation of observational models in psychomotor assessment instruments and (2) the relationship between motor skill competence, perceived motor competence, physical activity levels, and body composition.
+
+I often post on the topics related to: a) Statistics, b) SPSS and _R_ Software, c) Online teaching, d) Motor Behavior, e) Motor skill assessment.
+
+If you are a student interested in gaining experience with research, [contact me for more information](https://academics.csun.edu/faculty/ovande.furtado). 
+
+If you landed here while searching for my academic site, [click here](http://drfurtado.us) to be redirected.
 
 If you enjoy the content of this blog, please [consider supporting](https://ko-fi.com/drfurtado) what I do. Thank you.

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>ONE11</title>
+    <link>https://drfurtado.github.io/one11/</link>
+    <atom:link href="https://drfurtado.github.io/one11/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Dr. Furtado's academic blog.
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Tue, 29 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Adding a quiz to Canvas Studio</title>
+      <dc:creator>Ovande Furtado</dc:creator>
+      <link>https://drfurtado.github.io/one11/posts/2020-12-29-adding-a-quiz-to-canvas-studio</link>
+      <description>&lt;p&gt;I will show how to add quizzes to videos created/added to Canvas Studio.&lt;/p&gt;
+</description>
+      <category>Canvas</category>
+      <category>Quiz</category>
+      <category>Video</category>
+      <guid>https://drfurtado.github.io/one11/posts/2020-12-29-adding-a-quiz-to-canvas-studio</guid>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Line Graphs with R and SPSS</title>
+      <dc:creator>Ovande Furtado</dc:creator>
+      <link>https://drfurtado.github.io/one11/posts/2020-12-29-creating-line-grapghs-with-r</link>
+      <description>&lt;p&gt;Creating line graphs with R and SPSS&lt;/p&gt;
+</description>
+      <category>R</category>
+      <category>Graphs</category>
+      <category>Descriptive Stats</category>
+      <guid>https://drfurtado.github.io/one11/posts/2020-12-29-creating-line-grapghs-with-r</guid>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://drfurtado.github.io/one11/posts/2020-12-29-creating-line-grapghs-with-r/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+  </channel>
+</rss>

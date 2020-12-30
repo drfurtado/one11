@@ -1,5 +1,7 @@
 name: "one11"
 title: "ONE11"
+description: |
+  Dr. Furtado's academic blog.
 output_dir: "docs"
 creative_commons: CC BY
 alt_formats: true

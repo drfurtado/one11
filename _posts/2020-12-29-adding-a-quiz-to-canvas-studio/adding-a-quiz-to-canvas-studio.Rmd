@@ -1,0 +1,24 @@
+---
+title: "Adding a quiz to Canvas Studio"
+description: |
+  I will show how to add quizzes to videos created/added to Canvas Studio.
+draft: false
+categories:
+  - Canvas
+  - Quiz
+  - Video
+author:
+  - name: Ovande Furtado
+    url: https://drfurtado.us
+date: 12-29-2020
+output:
+  distill::distill_article:
+    self_contained: yes
+    toc: true
+    toc_depth: 2
+citation_url: https://drfurtado.github.io/one11/
+slug: furtado2020one11
+---
+
+text here
+

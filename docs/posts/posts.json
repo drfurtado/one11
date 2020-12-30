@@ -1,5 +1,26 @@
 [
   {
+    "path": "posts/2020-12-29-adding-a-quiz-to-canvas-studio/",
+    "title": "Adding a quiz to Canvas Studio",
+    "description": "I will show how to add quizzes to videos created/added to Canvas Studio.",
+    "author": [
+      {
+        "name": "Ovande Furtado",
+        "url": "https://drfurtado.us"
+      }
+    ],
+    "date": "2020-12-29",
+    "categories": [
+      "Canvas",
+      "Quiz",
+      "Video"
+    ],
+    "contents": "\ntext here\n\n\n\n",
+    "preview": {},
+    "last_modified": "2020-12-29T18:14:45-08:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2020-12-29-creating-line-grapghs-with-r/",
     "title": "Line Graphs with R and SPSS",
     "description": "Creating line graphs with R and SPSS",

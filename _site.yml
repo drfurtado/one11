@@ -10,6 +10,10 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - icon: fab fa-github
+      href: https://github.com/drfurtado
+    - icon: fa fa-rss
+      href: sitemap.xml
 output:
   distill::distill_article:
     toc: true

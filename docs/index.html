@@ -23,6 +23,7 @@
 pre > code.sourceCode { white-space: pre; position: relative; }
 pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
 div.sourceCode { margin: 1em 0; }
 pre.sourceCode { margin: 0; }
@@ -85,27 +86,27 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </style>
 
   <!--radix_placeholder_meta_tags-->
-  <title>ONE11: title</title>
+  <title>ONE11: </title>
 
 
   <link rel="license" href="https://creativecommons.org/licenses/by/4.0/"/>
 
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="ONE11: title"/>
+  <meta property="og:title" content="ONE11: "/>
   <meta property="og:type" content="article"/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="ONE11"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="ONE11: title"/>
+  <meta property="twitter:title" content="ONE11: "/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","site","listing"]}},"value":[{"type":"character","attributes":{},"value":["title"]},{"type":"character","attributes":{},"value":["distill::distill_website"]},{"type":"character","attributes":{},"value":["posts"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","site","listing"]}},"value":[{"type":"character","attributes":{},"value":[""]},{"type":"character","attributes":{},"value":["distill::distill_website"]},{"type":"character","attributes":{},"value":["posts"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2228,11 +2229,13 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   }
 
   /*-- BODY --*/
-  /* only text inside of <p> tags */
-  d-article > p {
+  d-article > p,  /* only text inside of <p> tags */
+  d-article > ul, /* lists */
+  d-article > ol {
     color: var(--body-color, rgba(0, 0, 0, 0.8));
     font-size: var(--body-size, 1.06rem);
   }
+
 
   /*-- CODE --*/
   d-article div.sourceCode code,
@@ -2331,7 +2334,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: var(--hover-color, white);
   }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.6/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.6.4/header-attrs.js"></script>
   <script src="site_libs/anchor-4.2.2/anchor.min.js"></script>
   <script src="site_libs/bowser-1.9.3/bowser.min.js"></script>
   <script src="site_libs/webcomponents-2.0.0/webcomponents.js"></script>
@@ -2347,7 +2350,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"title","authors":[]}
+{"title":"","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2502,11 +2505,11 @@ function init_posts_list() {
 
 <div class="posts-container posts-with-sidebar posts-apply-limit l-screen-inset">
 <div class="posts-list">
-<h1 class="posts-list-caption" data-caption="title">title</h1>
+<h1 class="posts-list-caption" data-caption=""></h1>
 <a href="posts/2020-12-29-creating-line-grapghs-with-r/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":["R","Graphs","Descriptive Stats"]}</script>
 <div class="metadata">
-<div class="publishedDate">Dec. 14, 2020</div>
+<div class="publishedDate">Dec. 29, 2020</div>
 <div class="dt-authors">
 <div class="dt-author">Ovande Furtado</div>
 </div>
@@ -2515,7 +2518,7 @@ function init_posts_list() {
 <img src="posts/2020-12-29-creating-line-grapghs-with-r/distill-preview.png"/>
 </div>
 <div class="description">
-<h2>Lines Graph with R and SPSS</h2>
+<h2>Line Graphs with R and SPSS</h2>
 <div class="dt-tags">
 <div class="dt-tag">R</div>
 <div class="dt-tag">Graphs</div>
@@ -2555,7 +2558,7 @@ function init_posts_list() {
 <!--/radix_placeholder_article_listing-->
 
 <div class="d-title">
-<h1>title</h1>
+<h1>index.utf8</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
 

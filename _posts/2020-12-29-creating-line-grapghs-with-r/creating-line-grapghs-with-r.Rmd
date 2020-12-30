@@ -1,5 +1,5 @@
 ---
-title: "Lines Graph with R and SPSS"
+title: "Line Graphs with R and SPSS"
 description: |
   Creating line graphs with R and SPSS
 draft: false
@@ -10,15 +10,14 @@ categories:
 author:
   - name: Ovande Furtado
     url: https://drfurtado.us
-    affiliation: Me, myself, and I
-date: 12-14-2020
+date: 12-29-2020
 output:
   distill::distill_article:
     self_contained: yes
     toc: true
     toc_depth: 2
-citation_url: https://one11.netlify.app/
-slug: furtado2020teknowledge
+citation_url: https://drfurtado.github.io/one11/
+slug: furtado2020one11
 bibliography: references.bib
 ---
 

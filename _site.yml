@@ -1,9 +1,9 @@
 name: "one11"
 title: "ONE11"
-description: |
-  ONE11
+base_url: https://drfurtado.github.io/one11/
 output_dir: "docs"
 creative_commons: CC BY
+alt_formats: true
 navbar:
   right:
     - text: "Home"

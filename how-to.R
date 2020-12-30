@@ -10,3 +10,4 @@ rename_post_dir("_posts/2020-12-17-adding-a-quiz-to-canvas-studio")
 
 # Documentation: 
 
+install.packages("postcards")

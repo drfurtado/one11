@@ -2,8 +2,8 @@
 title: "Ovande Furtado"
 image: "furtado.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
+  - label: Google Scholar
+    url: "https://bit.ly/3nUmq5w"
   - label: Twitter
     url: "https://twitter.com/ofurtado"
   - label: GitHub

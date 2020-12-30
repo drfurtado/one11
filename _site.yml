@@ -16,6 +16,10 @@ navbar:
       href: https://github.com/drfurtado
     - icon: fa fa-rss
       href: index.xml
+collections:
+  posts:
+    share: [twitter, linkedin]
+    subscribe: _subscribe.html
 output:
   distill::distill_article:
     toc: true

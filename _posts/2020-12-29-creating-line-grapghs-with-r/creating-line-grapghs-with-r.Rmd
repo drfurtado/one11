@@ -34,7 +34,7 @@ Below, I will show how to create beautiful graphs with *R* and RStudio.
 I will get started with line graphs.
 
 <aside>
-You may skip to the last step if you want to create the Multiple lines graph (with legends)
+You may skip to the last step if you want to create the Multiple lines graph (with legends).
 </aside>
 
 ## Single line graph with *R*

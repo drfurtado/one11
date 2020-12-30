@@ -8,11 +8,17 @@ alt_formats: true
 base_url: https://drfurtado.github.io/one11/
 repository_url: https://github.com/drfurtado/one11
 navbar:
-  right:
+  logo:
+    image: images/furtado-rounded.png
+  left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Related"
+      menu:
+        - text: "Academic Site" 
+          href: https://drfurtado.netlify.app/
     - icon: fab fa-github
       href: https://github.com/drfurtado
     - icon: fa fa-rss

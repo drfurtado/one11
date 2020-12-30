@@ -10,6 +10,9 @@ categories:
 author:
   - name: Ovande Furtado
     url: https://drfurtado.us
+    affiliation: Cal State Northridge
+    affiliation_url: https://csun.edu
+    orcid_id: 0000-0003-3847-6314
 date: 12-29-2020
 output:
   distill::distill_article:

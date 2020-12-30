@@ -33,6 +33,10 @@ Below, I will show how to create beautiful graphs with *R* and RStudio.
 
 I will get started with line graphs.
 
+<aside>
+You may skip to the last step if you want to create the Multiple lines graph (with legends)
+</aside>
+
 ## Single line graph with *R*
 
 To follow along, open RStudio, then create a new *R* script[^1]. Then, copy and paste each chunk of code into the newly created script.

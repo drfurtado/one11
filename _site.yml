@@ -19,10 +19,13 @@ navbar:
       menu:
         - text: "Academic Site" 
           href: https://drfurtado.netlify.app/
+        - text: "FG-COMPASS" 
+          href: https://fgcompass.com
     - icon: fab fa-github
       href: https://github.com/drfurtado
     - icon: fa fa-rss
       href: index.xml
+    - icon: 
 collections:
   posts:
     share: [twitter, facebook]

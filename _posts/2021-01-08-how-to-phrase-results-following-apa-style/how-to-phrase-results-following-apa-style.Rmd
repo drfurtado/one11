@@ -1,0 +1,35 @@
+---
+title: "How to phrase results following APA Style?"
+description: |
+  Motivation: show how to phrase results as per APA Style.
+    
+categories:
+  - APA style
+  - Phyrasing Results
+  - Inferencial Stats
+author:
+  - name: Ovande Furtado
+    url: https://drfurtado.netlify.app
+    affiliation: Cal State Northridge
+    affiliation_url: https://csun.edu
+    orcid_id: 0000-0003-3847-6314
+date: 01-08-2021
+output:
+  distill::distill_article:
+    self_contained: yes
+    toc: true
+    toc_depth: 2
+citation_url: https://drfurtado.github.io/one11/
+slug: furtado2020one11
+---
+
+## Prerequisites
+
+-   familiarity with APA 6th/7th edition
+-   basic understanding of inferential statistics
+
+## Standardization is helpful
+
+Let's start with the p-value.
+
+According to the APA 6th edition manual

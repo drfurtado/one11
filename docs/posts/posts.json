@@ -1,5 +1,26 @@
 [
   {
+    "path": "posts/2021-01-08-how-to-phrase-results-following-apa-style/",
+    "title": "How to phrase results following APA Style?",
+    "description": "Motivation: show how to phrase results as per APA Style.",
+    "author": [
+      {
+        "name": "Ovande Furtado",
+        "url": "https://drfurtado.netlify.app"
+      }
+    ],
+    "date": "2021-01-08",
+    "categories": [
+      "APA style",
+      "Phyrasing Results",
+      "Inferencial Stats"
+    ],
+    "contents": "\n\nContents\nPrerequisites\nStardardization is good\n\nPrerequisites\nfamiliarity with APA 6th/7th edition\nbasic understanding of inferential statistics\nStardardization is good\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-01-08T16:12:15-08:00",
+    "input_file": "how-to-phrase-results-following-apa-style.utf8.md"
+  },
+  {
     "path": "posts/2020-12-29-adding-a-quiz-to-canvas-studio/",
     "title": "Adding a quiz to Canvas Studio",
     "description": "I will show how to add quizzes to videos created/added to Canvas Studio.",
